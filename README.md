@@ -8,6 +8,7 @@ How to use :
 
 Some things to know :
 - You can't have spaces in the videos files names.
+- Your videos must have the .mp4 extension.
 - You can change de output resolution and bitrate depends to your server capacity.
 - You should use 16/9 video format.
 - The videos are playing by alphabetic order.
