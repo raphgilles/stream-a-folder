@@ -1,5 +1,5 @@
 # stream-a-folder
-Stream a folder using FFMPEG.
+Stream a folder using FFMPEG. Originaly writen for PeerTube, but working with YouTube and Twitch too.
 
 How to use :
 - Change the stream link and the stream key in the stream.sh file.
