@@ -1,0 +1,12 @@
+[Unit]
+Description=Livestream
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/var/www/live/
+ExecStart=/var/www/live/stream.sh
+TimeoutStartSec=0
+
+[Install]
+WantedBy=default.target
