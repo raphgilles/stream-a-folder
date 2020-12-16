@@ -2,6 +2,7 @@
 Stream a folder using FFMPEG. Originaly writen for PeerTube, but working with YouTube and Twitch too.
 
 How to use :
+- Install FFMPEG by runing "sudo apt install ffmpeg".
 - Change the stream link and the stream key in the stream.sh file.
 - Place the stream.sh in the same directory of your videos.
 - Now go in this directory and run "sh stream.sh" and that's all !
