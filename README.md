@@ -1,4 +1,4 @@
-# stream-a-folder
+# Stream a folder on PeerTube, YouTube or Twitch
 Stream a folder using FFMPEG. Originaly writen for PeerTube, but working with YouTube and Twitch too.
 
 How to use :
