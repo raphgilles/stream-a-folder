@@ -6,6 +6,13 @@ How to use :
 - Place the stream.sh in the same folder of your videos.
 - Now launch "sh stream.sh" and that's all !
 
+Automate the livestream :
+- Place the stream.service in your Systemd directory (usually /etc/systemd/system/)
+- Edit the file and change the WorkingDirectory by the one you placed the stream.sh file.
+- Run "systemctl daemon-reload"
+- Run "sudo service stream start"
+- To verify all is working fine run "sudo service stream status"
+
 Some things to know :
 - You can't have spaces in the videos files names.
 - Your videos must have the .mp4 extension.
