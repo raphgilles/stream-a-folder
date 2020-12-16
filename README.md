@@ -3,8 +3,8 @@ Stream a folder using FFMPEG. Originaly writen for PeerTube, but working with Yo
 
 How to use :
 - Change the stream link and the stream key in the stream.sh file.
-- Place the stream.sh in the same folder of your videos.
-- Now launch "sh stream.sh" and that's all !
+- Place the stream.sh in the same directory of your videos.
+- Now go in this directory and run "sh stream.sh" and that's all !
 
 Automate the livestream :
 - Place the stream.service in your Systemd directory (usually /etc/systemd/system/)
