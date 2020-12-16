@@ -7,6 +7,7 @@ How to use :
 - Now launch "sh stream.sh" and that's all !
 
 Some things to know :
-- You should use 16/9 video format.
 - You can't have spaces in the videos files names.
+- You can change de output resolution and bitrate depends to your server capacity.
+- You should use 16/9 video format.
 - The videos are playing by alphabetic order.
