@@ -14,8 +14,8 @@ Automate the livestream :
 - To verify all is working fine run "sudo service stream status"
 
 Some things to know :
-- You can't have spaces in the videos files names.
+- You can't have spaces or special characters in the videos files names.
 - Your videos must have the .mp4 extension.
-- You can change de output resolution and bitrate depends to your server capacity.
+- You can change the output resolution and bitrate depends to your server capacity.
 - You should use 16/9 video format.
 - The videos are playing by alphabetic order.
