@@ -1,5 +1,5 @@
-# Stream a folder on PeerTube, YouTube or Twitch
-Stream a folder using FFMPEG. Originaly writen for PeerTube, but works with YouTube and Twitch too.
+# Stream a folder from your server on : PeerTube, YouTube or Twitch
+Stream a folder from your server using FFMPEG. Originaly writen for PeerTube, but works with YouTube and Twitch too.
 
 **How to use :**
 - Install FFMPEG by runing "sudo apt install ffmpeg".
