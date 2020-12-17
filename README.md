@@ -23,4 +23,4 @@ Stream a folder using FFMPEG. Originaly writen for PeerTube, but working with Yo
 
 **Example of a livestream using this script :**
 
-<a href="https://peertube.stream/videos/watch/118d4071-1a87-4050-9d14-82e2a9c68fda" target="_blank">![Image](https://i.ibb.co/VL1nnBr/Capture-d-e-cran-2020-12-17-a-14-41-19.png "PeerTube Livestream")</a>
+<a href="https://peertube.stream/videos/watch/118d4071-1a87-4050-9d14-82e2a9c68fda?autoplay=1" target="_blank">![Image](https://i.ibb.co/VL1nnBr/Capture-d-e-cran-2020-12-17-a-14-41-19.png "PeerTube Livestream")</a>
