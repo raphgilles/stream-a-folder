@@ -20,7 +20,3 @@ Stream a folder from your server using FFMPEG. Originaly writen for PeerTube, bu
 - You can change the output resolution and bitrate depends to your server capacity.
 - You should use 16/9 video format.
 - The videos are playing by alphabetic order.
-
-**Example of a livestream using this script :**
-
-<a href="https://peertube.stream/videos/watch/118d4071-1a87-4050-9d14-82e2a9c68fda?autoplay=1" target="_blank">![Image](https://i.ibb.co/VL1nnBr/Capture-d-e-cran-2020-12-17-a-14-41-19.png "PeerTube Livestream")</a>
